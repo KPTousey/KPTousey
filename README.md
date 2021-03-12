@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KPTousey
+- 👀 I’m interested in web development with Javascript
+- 🌱 I’m currently learning React
+- 📫 Feel free to contact me at tousey.kp@gmail.com 
